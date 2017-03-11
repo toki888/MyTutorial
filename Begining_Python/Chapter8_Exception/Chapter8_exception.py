@@ -19,6 +19,9 @@ except (ZeroDivisionError) as e:
     print ( e )
 
 class foo:
-    print ( 'Hello, World!' )
+    print ( 'Hello, world!' )
+
+class foobar:
+    print('Hello, wenyun!')
 
 
